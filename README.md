@@ -21,9 +21,9 @@ you can use [Office Deployment Tool](https://www.microsoft.com/en-us/download/de
 
 ## NOTE:
 1、感谢https://github.com/jm33-m0/kms-activate  
-&nbsp;&nbsp;&nbsp;&nbsp;本项目是在此项目基础上修改而来的WinForm版，并加入KMS服务器  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;本项目是在此项目基础上修改而来的WinForm版，并加入KMS服务器  
    
 2、感谢https://github.com/CHEF-KOCH/KMS-activator/tree/master/Source/KMSEmulator  
-&nbsp;&nbsp;&nbsp;&nbsp;本项目KMS服务器采用此源码
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;本项目KMS服务器采用此源码
    
 3、要激活机器和KMS服务器不能在同一台机器上
