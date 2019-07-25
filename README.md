@@ -20,10 +20,10 @@ Microsoft Windows/Office 一键激活工具
 you can use [Office Deployment Tool](https://www.microsoft.com/en-us/download/details.aspx?id=49117) to download and install Office (VOL) from Microsoft
 
 ## NOTE:
-1、感谢https://github.com/jm33-m0/kms-activate
-   本项目是在此项目基础上修改而来，并加入KMS服务器
+1、感谢https://github.com/jm33-m0/kms-activate  
+&nbsp;&nbsp;&nbsp;&nbsp;本项目是在此项目基础上修改而来的WinForm版，并加入KMS服务器  
    
-2、感谢https://github.com/CHEF-KOCH/KMS-activator/tree/master/Source/KMSEmulator
-   本项目KMS服务器采用此源码
+2、感谢https://github.com/CHEF-KOCH/KMS-activator/tree/master/Source/KMSEmulator  
+&nbsp;&nbsp;&nbsp;&nbsp;本项目KMS服务器采用此源码
    
 3、要激活机器和KMS服务器不能在同一台机器上
